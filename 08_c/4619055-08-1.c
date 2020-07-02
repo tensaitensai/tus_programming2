@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> /* 文字列関数を扱えるようにする */
+
 void counting_sort(int *A, int n, int k);
 
 int main(void)
