@@ -13,4 +13,5 @@
 - [06_c](https://github.com/tensaitensai/tus_sophomore_programming2/tree/master/06_c) - ハッシュ法の実装 
 - [07_c](https://github.com/tensaitensai/tus_sophomore_programming2/tree/master/07_c) - バケットソートの実装
 - [08_c](https://github.com/tensaitensai/tus_sophomore_programming2/tree/master/08_c) - 分布数え上げソートの実装
-- [09_c](https://github.com/tensaitensai/tus_sophomore_programming2/tree/master/09_c) - 
+- [09_c](https://github.com/tensaitensai/tus_sophomore_programming2/tree/master/09_c) - クイックソートの実装
+- [10_c](https://github.com/tensaitensai/tus_sophomore_programming2/tree/master/10_c) - グラフ探索アルゴリズムの実装
